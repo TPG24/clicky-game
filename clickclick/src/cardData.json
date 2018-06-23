@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "alt": "Peach",
+    "image": "https://media.giphy.com/media/xT9DPwSPEK7UuwydBC/giphy.gif"
+  },
+  {
+    "id": 2,
+    "alt": "Donald Glover",
+    "image": "https://media.giphy.com/media/3o6ZsTrpNibh4SGsSI/giphy.gif"
+  },
+  {
+    "id": 3,
+    "alt": "Braves",
+    "image": "https://media.giphy.com/media/p1kWhEXfMDsc0/giphy.gif"
+  },
+  {
+    "id": 4,
+    "alt": "Falcons",
+    "image": "https://media.giphy.com/media/l3q2Na4IEFbNmIkeI/giphy.gif"
+  },
+  {
+    "id": 5,
+    "alt": "Atlanta United",
+    "image": "https://media.giphy.com/media/1BffI0B1FWj33pjKSV/giphy.gif"
+  },
+  {
+    "id": 6,
+    "alt": "Hawks",
+    "image": "https://media.giphy.com/media/bgB17ZdRXr0RO/giphy.gif"
+  },
+  {
+    "id": 7,
+    "alt": "Lil Jon",
+    "image": "https://media.giphy.com/media/AFD9Zk6uoFzS7Pd9Qs/giphy.gif"
+  },
+  {
+    "id": 8,
+    "alt": "Outkast",
+    "image": "https://media.giphy.com/media/QGjE0GjapbtMQ/giphy.gif"
+  }
+
+]
