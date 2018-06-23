@@ -2,7 +2,7 @@
   "name": "src",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tpg24.github.io/",
+  "homepage": "https://TPG24.github.io/clicky-app/clickclick",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "radium": "^0.24.0",
