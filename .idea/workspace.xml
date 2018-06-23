@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17eb2aad-c5bd-4a42-8929-f7bb365412be" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clickclick/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/clickclick/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clickclick/src/components/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/clickclick/src/components/navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clickclick/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/clickclick/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="17eb2aad-c5bd-4a42-8929-f7bb365412be" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3915493">
+    <splitter split-orientation="horizontal" split-proportion="0.44507042">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
@@ -90,8 +84,8 @@
           <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/clickclick/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
                 </state>
               </provider>
             </entry>
@@ -118,7 +112,7 @@
             <entry file="file://$PROJECT_DIR$/clickclick/src/components/GameCard.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="360">
-                  <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+                  <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -134,8 +128,8 @@
             <entry file="file://$PROJECT_DIR$/clickclick/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="-185">
-                    <caret line="2183" column="4" lean-forward="true" selection-start-line="2183" selection-start-column="4" selection-end-line="2183" selection-end-column="43" />
+                  <first_editor relative-caret-position="-197">
+                    <caret line="2183" column="4" selection-start-line="2183" selection-start-column="4" selection-end-line="2183" selection-end-column="43" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -235,6 +229,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
@@ -260,15 +255,16 @@
       <option name="presentableId" value="Default" />
       <updated>1529711631385</updated>
       <workItem from="1529711633723" duration="7870000" />
-      <workItem from="1529777929725" duration="1143000" />
+      <workItem from="1529777929725" duration="1613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9013000" />
+    <option name="totallyTimeSpent" value="9483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
@@ -422,7 +418,7 @@
     <entry file="file://$PROJECT_DIR$/clickclick/src/components/GameCard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -452,33 +448,20 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/clickclick/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="82">
-            <caret line="2123" column="17" selection-start-line="2123" selection-start-column="5" selection-end-line="2123" selection-end-column="17" />
-            <folding>
-              <element signature="e#0#41#0" expanded="true" />
-              <element signature="e#0#41#0" expanded="true" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#0#42#0" expanded="true" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#0#35#0" expanded="true" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#0#26#0" expanded="true" />
-              <element signature="e#0#28#0" expanded="true" />
-              <element signature="e#0#28#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/clickclick/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clickclick/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+    <entry file="file://$PROJECT_DIR$/clickclick/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-197">
+            <caret line="2183" column="4" selection-start-line="2183" selection-start-column="4" selection-end-line="2183" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
