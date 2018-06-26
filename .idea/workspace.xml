@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17eb2aad-c5bd-4a42-8929-f7bb365412be" name="Default" comment="" />
+    <list default="true" id="17eb2aad-c5bd-4a42-8929-f7bb365412be" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/clicky-game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/clickclick/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/cardData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/components/GameCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/components/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/components/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/components/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/components/navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/src/registerServiceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickclick/yarn.lock" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -131,6 +160,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -154,7 +188,8 @@
       <option name="presentableId" value="Default" />
       <updated>1529711631385</updated>
       <workItem from="1529711633723" duration="7870000" />
-      <workItem from="1529777929725" duration="1613000" />
+      <workItem from="1529777929725" duration="2358000" />
+      <workItem from="1530052135788" duration="254000" />
     </task>
     <servers />
   </component>
@@ -211,6 +246,71 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clickclick/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="81" selection-start-line="14" selection-start-column="81" selection-end-line="14" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clickclick/src/components/navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clickclick/src/components/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clickclick/src/components/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clickclick/src/components/GameCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clickclick/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clickclick/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="31845">
+            <caret line="2123" column="17" selection-start-line="2123" selection-start-column="5" selection-end-line="2123" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clickclick/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/clickclick/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -559,10 +659,11 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/clickclick/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-197">
+          <first_editor relative-caret-position="15">
             <caret line="2183" column="4" selection-start-line="2183" selection-start-column="4" selection-end-line="2183" selection-end-column="43" />
           </first_editor>
           <second_editor />
